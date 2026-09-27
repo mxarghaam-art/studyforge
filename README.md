@@ -1,6 +1,9 @@
-# StudyForge
-Adaptive textbook testing engine — GitHub Pages ready.
+# Grade 9 Smart Study
 
-This is the first architecture build, not a claim that every textbook has already been completely encoded. The engine is designed so verified textbook/SLO data can be added without changing the UI.
+Free static adaptive textbook tester for GitHub Pages.
 
-Deploy: upload these files to a GitHub repository, then Settings → Pages → Deploy from branch → main/root.
+Features: subject cards, Smart Practice, Revision Mode, Random 20, Study All, chapter filtering, separate per-subject local progress, importable book packs.
+
+The app is intentionally small. Original PDFs do not need to be deployed with it.
+
+Chemistry 9 starter structure follows the 19-unit organization of the supplied textbook. The included questions are a small starter pack, not a claim of complete textbook coverage.
